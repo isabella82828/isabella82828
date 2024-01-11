@@ -2,8 +2,7 @@
 
 
 - 🎓 I'm a Biomedical Engineering student at the University of Waterloo
-- 🌱 **I’m currently learning about:** ML in healthcare, cloud computing
-- 🚀 **I’m currently working on:**
+- 🚀 I’m currently learning about: ML in healthcare, cloud computing
 
 
 🔍 Currently seeking Fall 2024 internship opportunities!

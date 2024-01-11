@@ -2,8 +2,8 @@
 
 
 - 🎓 I'm a Biomedical Engineering student at the University of Waterloo
-- 🌱 I'm passionate about the intersection between technology, design, and social good
-- 🚀 I’m currently learning about: ML in healthcare, cloud computing
+- 🌱 **I'm passionate about:** the intersection between technology, design, and social good
+- 🚀 **I’m currently learning about:** ML in healthcare, and cloud computing
 
 
 🔍 Currently seeking Fall 2024 internship opportunities!

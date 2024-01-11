@@ -2,7 +2,7 @@
 
 
 - 🎓 I'm a Biomedical Engineering student at the University of Waterloo
-- 🌱 I'm passionate about the intersection between technology, design, and social good in order to create solutions with large scale impact
+- 🌱 I'm passionate about the intersection between technology, design, and social good
 - 🚀 I’m currently learning about: ML in healthcare, cloud computing
 
 

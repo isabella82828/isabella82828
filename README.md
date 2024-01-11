@@ -2,7 +2,8 @@
 
 
 - 🎓 I'm a Biomedical Engineering student at the University of Waterloo
-- 🌱 **I’m currently learning about:** 
+- 🌱 **I’m currently learning about:**
+- 🚀 **I’m currently working on:**
 
 
 🔍 Currently seeking Fall 2024 internship opportunities!

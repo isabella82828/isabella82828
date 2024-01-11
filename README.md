@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Isabella Rossi</h3>
 
 <!--
 **isabella82828/isabella82828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

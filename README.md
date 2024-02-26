@@ -3,9 +3,9 @@
 <img align='right' src='https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUwMTQ5ODQsIm5iZiI6MTcwNTAxNDY4NCwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTExVDIzMTEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI2NjliNjJiODk1MGM3MGVjYjQ0NzFiZGJkMTI3NDdhZTRiZTQ0M2M2MWMzYTRiODU5ZGI2MGUwNTZkNTdiM2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RUHFUYERPr0TCS3Y8JgipxOD0iNbNbFDRRf9OntIU7Y' width='200"'>
 
 
-- 🎓 I'm a Biomedical Engineering student at the University of Waterloo
-- 🌱 **I'm passionate about:** the intersection between technology, design, and social good
-- 🚀 **I’m currently learning about:** ML in healthcare, AWS
+- 🎓 I'm an Engineering student at the University of Waterloo
+- 🌱 **I'm passionate about:** using technology for social good
+- 🚀 **I’m currently learning about:** Al/ML in healthcare, AWS
 
 
 🔍 I'm seeking Fall 2024 internship opportunities!

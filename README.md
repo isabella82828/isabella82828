@@ -6,7 +6,6 @@
 - 🎓 I'm an Engineering student at the University of Waterloo
 - 🌱 **I'm passionate about:** developing solutions that make tech more sustainable & dynamic
 - 🚀 **I’m currently learning about:** AWS, deep learning
-- 💡 **Activities**: Formula Electric Firmware Developer, Technova Logistics Coordinator, Engineering Ambassador
 
 
 🔍 I'm seeking Fall 2024 internship opportunities!

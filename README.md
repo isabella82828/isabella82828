@@ -8,6 +8,6 @@
 - 🚀 **I’m currently learning about:** AWS, deep learning
 
 
-🔍 I'm seeking Fall 2024 internship opportunities!
+🔍 I'm seeking Summer 2025 internship opportunities!
 
 [![Linkedin Badge](https://img.shields.io/badge/isabella%20rossi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-rossi-rossi/)

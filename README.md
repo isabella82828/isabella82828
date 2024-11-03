@@ -5,7 +5,7 @@
 
 - 🎓 I'm an Engineering student at the University of Waterloo
 - 🌱 **I'm passionate about:** developing solutions that make tech more sustainable & dynamic
-- 🚀 **I’m currently learning about:** AWS, deep learning
+- 🚀 **I’m currently learning about:** deep learning
 
 
 🔍 I'm seeking Summer 2025 internship opportunities!

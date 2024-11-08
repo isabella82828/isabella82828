@@ -4,7 +4,7 @@
 
 
 - 🎓 I'm an Engineering student at the University of Waterloo
-- 🌱 **I'm passionate about:** developing solutions that make tech more sustainable & dynamic
+- 🌱 **I'm passionate about:** developing solutions at the intersection of technology, social good, and healthcare
 - 🚀 **I’m currently learning about:** deep learning
 
 
